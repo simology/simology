@@ -10,7 +10,7 @@ This repository may include:
 
 * Code examples
 * Text documents
-* tools & binary
+* Tools & binary
 * Other miscellaneous resources
 
 ## Disclaimer and Privacy Considerations
